@@ -1,0 +1,37 @@
+[
+	{
+		"name" : "Himani",
+		"email" : "himani@gmail.com",
+		"country" : "India"
+	},
+	{
+		"name" : "Shivani",
+		"email" : "shivani@gmail.com",
+		"country" : "America"
+	},
+	{
+		"name" : "Vaibhav",
+		"email" : "vaibhav@gmail.com",
+		"country" : "Australia"
+	},
+	{
+		"name" : "Shivam",
+		"email" : "shivam@gmail.com",
+		"country" : "Sri Lanka"
+	},
+	{
+		"name" : "Henry",
+		"email" : "henry@gmail.com",
+		"country" : "England"
+	},
+	{
+		"name" : "David",
+		"email" : "david@gmail.com",
+		"country" : "Turkey"
+	},
+	{
+		"name" : "Yuri Chang",
+		"email" : "chang@gmail.com",
+		"country" : "China"
+	}
+]
